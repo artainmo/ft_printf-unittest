@@ -1,5 +1,8 @@
 #include <stdio.h>
-#include "printf.h"
+#include <unistd.h>
+#include "ft_printf.h"
+
+//For new printf, compile without the flags
 
 int main()
 {
